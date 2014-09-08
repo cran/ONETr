@@ -30,7 +30,7 @@ May not work if data are not properly formatted.
 
 \examples{
     data(jobData)
-    # You need to set your credentials with \code{setCreds} prior to use.
+    # You need to set your credentials with setCreds() prior to use.
     interests(jobData)
 }
 % Add one or more standard keywords, see file 'KEYWORDS' in the
